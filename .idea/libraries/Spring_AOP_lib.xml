@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Spring-AOP lib">
+    <CLASSES>
+      <root url="file://D:/JavaeeAPP/Spring-AOP lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/JavaeeAPP/Spring-AOP lib" recursive="false" />
+  </library>
+</component>
